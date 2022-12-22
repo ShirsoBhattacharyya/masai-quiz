@@ -1,0 +1,474 @@
+[
+  {
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What is the first book of the Old Testament?",
+    "correct_answer": "Genesis",
+    "incorrect_answers": ["Exodus", "Leviticus", "Numbers"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What alcoholic drink is made from molasses?",
+    "correct_answer": "Rum",
+    "incorrect_answers": ["Gin", "Vodka", "Whisky"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What is the shape of the toy invented by Hungarian professor Ernő Rubik?",
+    "correct_answer": "Cube",
+    "incorrect_answers": ["Sphere", "Cylinder", "Pyramid"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which one of the following rhythm games was made by Harmonix?",
+    "correct_answer": "Rock Band",
+    "incorrect_answers": [
+      "Meat Beat Mania",
+      "Guitar Hero Live",
+      "Dance Dance Revolution"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Red Vines is a brand of what type of candy?",
+    "correct_answer": "Licorice",
+    "incorrect_answers": ["Lollipop", "Chocolate", "Bubblegum"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
+    "correct_answer": "Spruce Goose",
+    "incorrect_answers": ["Noah&#039;s Ark", "Fat Man", "Trojan Horse"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What is the name of Poland in Polish?",
+    "correct_answer": "Polska",
+    "incorrect_answers": ["Pupcia", "Polszka", "P&oacute;land"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "The New York Times slogan is, &ldquo;All the News That&rsquo;s Fit to&hellip;&rdquo;",
+    "correct_answer": "Print",
+    "incorrect_answers": ["Digest", "Look", "Read"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What do the letters of the fast food chain KFC stand for?",
+    "correct_answer": "Kentucky Fried Chicken",
+    "incorrect_answers": [
+      "Kentucky Fresh Cheese",
+      "Kibbled Freaky Cow",
+      "Kiwi Food Cut"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "How tall is the Burj Khalifa?",
+    "correct_answer": "2,722 ft",
+    "incorrect_answers": ["2,717 ft", "2,546 ft", "3,024 ft"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which of the following presidents is not on Mount Rushmore?",
+    "correct_answer": "John F. Kennedy",
+    "incorrect_answers": [
+      "Theodore Roosevelt",
+      "Abraham Lincoln",
+      "Thomas Jefferson"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "When someone is inexperienced they are said to be what color?",
+    "correct_answer": "Green",
+    "incorrect_answers": ["Red", "Blue", "Yellow"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "If you are caught &quot;Goldbricking&quot;, what are you doing wrong?",
+    "correct_answer": "Slacking",
+    "incorrect_answers": ["Smoking", "Stealing", "Cheating"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "The Flag of the European Union has how many stars on it?",
+    "correct_answer": "12",
+    "incorrect_answers": ["10", "14", "16"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "How many furlongs are there in a mile?",
+    "correct_answer": "Eight",
+    "incorrect_answers": ["Two", "Four", "Six"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Foie gras is a French delicacy typically made from what part of a duck or goose?",
+    "correct_answer": "Liver",
+    "incorrect_answers": ["Heart", "Stomach", "Intestines"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Who is the author of Jurrasic Park?",
+    "correct_answer": "Michael Crichton",
+    "incorrect_answers": ["Peter Benchley", "Chuck Paluhniuk", "Irvine Welsh"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Who is the youngest person to recieve a Nobel Prize?",
+    "correct_answer": "Malala Yousafzai",
+    "incorrect_answers": [
+      "Lawrence Bragg",
+      "Werner Heisenberg",
+      "Yasser Arafat"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which country has the union jack in its flag?",
+    "correct_answer": "New Zealand",
+    "incorrect_answers": ["South Africa", "Canada", "Hong Kong"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "When was the Playstation 3 released?",
+    "correct_answer": "November 11, 2006",
+    "incorrect_answers": [
+      "January 8, 2007",
+      "December 25, 2007",
+      "July 16, 2006"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What does a milliner make and sell?",
+    "correct_answer": "Hats",
+    "incorrect_answers": ["Shoes", "Belts", "Shirts"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "When was the Declaration of Independence approved by the Second Continental Congress?",
+    "correct_answer": "July 4, 1776",
+    "incorrect_answers": ["May 4, 1776", "June 4, 1776", "July 2, 1776"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What did the Spanish autonomous community of Catalonia ban in 2010, that took effect in 2012?",
+    "correct_answer": "Bullfighting",
+    "incorrect_answers": ["Fiestas", "Flamenco", "Mariachi"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What is the romanized Japanese word for &quot;university&quot;?",
+    "correct_answer": "Daigaku",
+    "incorrect_answers": ["Toshokan", "Jimusho", "Shokudou"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What is the Swedish word for &quot;window&quot;?",
+    "correct_answer": "F&ouml;nster",
+    "incorrect_answers": ["H&aring;l", "Sk&auml;rm", "Ruta"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What country saw a world record 315 million voters turn out for elections on May 20, 1991?",
+    "correct_answer": "India",
+    "incorrect_answers": ["United States of America", "Soviet Union", "Poland"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "According to the United States&#039; CDC, one in how many Americans die annually due to smoking?",
+    "correct_answer": "Five",
+    "incorrect_answers": ["Twenty", "Ten", "One hundred"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What is a dead mall?",
+    "correct_answer": "A mall with high vacancy rates or low consumer foot traffic",
+    "incorrect_answers": [
+      "A mall with no stores",
+      "A mall that has been condemed",
+      "A mall after business hours"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "The new One World Trade Center in Manhattan, New York City was designed by which architect? ",
+    "correct_answer": "David Childs",
+    "incorrect_answers": ["Bjarke Ingels", "Michael Arad", "Fumihiko Maki"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What was the soft drink Pepsi originally introduced as?",
+    "correct_answer": "Brad&#039;s Drink",
+    "incorrect_answers": ["Pepsin Pop", "Carolina Cola", "Pepsin Syrup"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "In a 1994 CBS interview, Microsoft co-founder Bill Gates performed what unusual trick on camera?",
+    "correct_answer": "Jumping over an office chair",
+    "incorrect_answers": [
+      "Jumping backwards over a desk",
+      "Standing on his head",
+      "Typing on a keyboard during a handstand"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Computer manufacturer Compaq was acquired for $25 billion dollars in 2002 by which company?",
+    "correct_answer": "Hewlett-Packard",
+    "incorrect_answers": ["Toshiba", "Asus", "Dell"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What is real haggis made of?",
+    "correct_answer": "Sheep&#039;s Heart, Liver and Lungs",
+    "incorrect_answers": [
+      "Sheep&#039;s Heart, Kidneys and Lungs",
+      "Sheep&#039;s Liver, Kidneys and Eyes",
+      "Whole Sheep"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which country drives on the left side of the road?",
+    "correct_answer": "Japan",
+    "incorrect_answers": ["Germany", "Russia", "China"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "In ancient Greece, if your job were a &quot;hippeus&quot; which of these would you own?",
+    "correct_answer": "Horse",
+    "incorrect_answers": ["Weave", "Guitar", "Boat"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "A statue of Charles Darwin sits in what London museum?",
+    "correct_answer": "Natural History Museum",
+    "incorrect_answers": ["Tate", "British Museum", "Science Museum"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What is the full title of the Prime Minister of the UK?",
+    "correct_answer": "First Lord of the Treasury",
+    "incorrect_answers": [
+      "Duke of Cambridge",
+      "Her Majesty&#039;s Loyal Opposition",
+      "Manager of the Crown Estate"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Directly between the Washington Monument and the Reflecting Pool is a memorial to which war?",
+    "correct_answer": "World War II",
+    "incorrect_answers": [
+      "Vietnam War",
+      "American Civil War",
+      "American Revolutionary War"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "The Fields Medal, one of the most sought after awards in mathematics, is awarded every how many years?",
+    "correct_answer": "4",
+    "incorrect_answers": ["3", "5", "6"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Linus Pauling, one of the only winners of multiple Nobel Prizes, earned his Nobel Prizes in Chemistry and what?",
+    "correct_answer": "Peace",
+    "incorrect_answers": ["Physics", "Economics", "Physiology/Medicine"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "What is the airspeed velocity of an unladen swallow?",
+    "correct_answer": "24 MPH",
+    "incorrect_answers": ["15 MPH", "20 MPH", "200 MPH"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Before the 19th Century, the &quot;Living Room&quot; was originally called the...",
+    "correct_answer": "Parlor",
+    "incorrect_answers": ["Open Room", "Sitting Room", "Loft"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "What year was Queen Elizabeth II born?",
+    "correct_answer": "1926",
+    "incorrect_answers": ["1923", "1929", "1930"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Sciophobia is the fear of what?",
+    "correct_answer": "Shadows",
+    "incorrect_answers": ["Eating", "Bright lights", "Transportation"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Which of these banks are NOT authorized to issue currency notes in Hong Kong?",
+    "correct_answer": "OCBC",
+    "incorrect_answers": ["HSBC", "Standard Chartered", "Bank of China"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "What is the romanized Chinese word for &quot;airplane&quot;?",
+    "correct_answer": "Feiji",
+    "incorrect_answers": ["Qiche", "Zongxian", "Huojian"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "What is the romanized Korean word for &quot;heart&quot;?",
+    "correct_answer": "Simjang",
+    "incorrect_answers": ["Aejeong", "Jeongsin", "Segseu"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "What is the romanized Arabic word for &quot;moon&quot;?",
+    "correct_answer": "Qamar",
+    "incorrect_answers": ["Najma", "Kawkab", "Shams"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Which musician has collaborated with American producer Porter Robinson and released the 2016 song &quot;Shelter&quot;?",
+    "correct_answer": "Madeon",
+    "incorrect_answers": ["Mat Zo", "deadmau5", "Zedd"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "How many calories are in a 355 ml can of Pepsi Cola?",
+    "correct_answer": "150",
+    "incorrect_answers": ["200", "100", "155"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "De Eemhof, Port Zelande and Het Heijderbos are holiday villas owned by what company?",
+    "correct_answer": "Center Parcs",
+    "incorrect_answers": ["Yelloh Village", "Keycamp", "Villa Plus"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "What year was the RoboSapien toy robot released?",
+    "correct_answer": "2004",
+    "incorrect_answers": ["2000", "2001", "2006"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Virtual reality company Oculus VR lost which of it&#039;s co-founders in a freak car accident in 2013?",
+    "correct_answer": "Andrew Scott Reisse",
+    "incorrect_answers": ["Nate Mitchell", "Jack McCauley", "Palmer Luckey"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Chartreuse is a color between yellow and what?",
+    "correct_answer": "Green",
+    "incorrect_answers": ["Red", "Black", "Purple"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Which church&#039;s interior in Vatican City was designed in 1503 by renaissance architects including Bramante, Michelangelo and Bernini?",
+    "correct_answer": "St. Peter&#039;s Basilica",
+    "incorrect_answers": [
+      "Catania Cathedral",
+      "St. Mark&rsquo;s Basilica",
+      "The Duomo of Florence"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Located in Chile, El Teniente is the world&#039;s largest underground mine for what metal?",
+    "correct_answer": "Copper",
+    "incorrect_answers": ["Iron", "Nickel", "Silver"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "How many notes are there on a standard grand piano?",
+    "correct_answer": "88",
+    "incorrect_answers": ["98", "108", "78"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "What is the weight of a Gold Bar in Fallout: New Vegas?",
+    "correct_answer": "35 Pounds",
+    "incorrect_answers": ["30 Pounds", "40 Pounds", "32.50 Pounds"]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "The word &quot;astasia&quot; means which of the following?",
+    "correct_answer": "The inability to stand up",
+    "incorrect_answers": [
+      "The inability to make decisions",
+      "The inability to concentrate on anything",
+      "A feverish desire to rip one&#039;s clothes off"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Which of these cities does NOT have a United States Minting location?",
+    "correct_answer": "St. Louis, MO",
+    "incorrect_answers": [
+      "San Fransisco, CA",
+      "Philidelphia, PA",
+      "West Point, NY"
+    ]
+  }
+]

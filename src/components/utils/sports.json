@@ -1,0 +1,446 @@
+[
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "How many times did Martina Navratilova win the Wimbledon Singles Championship?",
+    "correct_answer": "Nine",
+    "incorrect_answers": ["Ten", "Seven", "Eight"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "With which team did Michael Schumacher make his Formula One debut at the 1991 Belgian Grand Prix?",
+    "correct_answer": "Jordan",
+    "incorrect_answers": ["Benetton", "Ferrari", "Mercedes"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which German sportswear company&#039;s logo is the &#039;Formstripe&#039;?",
+    "correct_answer": "Puma",
+    "incorrect_answers": ["Nike", "Adidas", "Reebok"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What tool lends it&#039;s name to a last-stone advantage in an end in Curling?",
+    "correct_answer": "Hammer",
+    "incorrect_answers": ["Wrench", "Drill", "Screwdriver"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these teams isn&#039;t a member of the NHL&#039;s &quot;Original Six&quot; era?",
+    "correct_answer": "Philadelphia Flyers",
+    "incorrect_answers": [
+      "New York Rangers",
+      "Toronto Maple Leafs",
+      "Boston Bruins"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who was the British professional wrestler Shirley Crabtree better known as?",
+    "correct_answer": "Big Daddy",
+    "incorrect_answers": ["Giant Haystacks", "Kendo Nagasaki", "Masambula"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the nickname of Northampton town&#039;s rugby union club?",
+    "correct_answer": "Saints",
+    "incorrect_answers": ["Harlequins", "Saracens", "Wasps"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many soccer players should be on the field at the same time?",
+    "correct_answer": "22",
+    "incorrect_answers": ["20", "24", "26"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In what sport is a &quot;shuttlecock&quot; used?",
+    "correct_answer": "Badminton",
+    "incorrect_answers": ["Table Tennis", "Rugby", "Cricket"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In baseball, how many fouls are an out?",
+    "correct_answer": "0",
+    "incorrect_answers": ["5", "3", "2"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which nation hosted the FIFA World Cup in 2006?",
+    "correct_answer": "Germany",
+    "incorrect_answers": ["United Kingdom", "Brazil", "South Africa"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The F1 season of 1994 is remembered for what tragic event?",
+    "correct_answer": "Death of Ayrton Senna (San Marino)",
+    "incorrect_answers": [
+      "The Showdown (Australia)",
+      "Verstappen on Fire (Germany)",
+      "Schumacher&#039;s Ban (Britain)"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country has hosted the 2018 FIFA World Cup?",
+    "correct_answer": "Russia",
+    "incorrect_answers": ["Germany", "United States", "Saudi Arabia"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who won the 2015 Formula 1 World Championship?",
+    "correct_answer": "Lewis Hamilton",
+    "incorrect_answers": ["Nico Rosberg", "Sebastian Vettel", "Jenson Button"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which driver has been the Formula 1 world champion for a record 7 times?",
+    "correct_answer": "Michael Schumacher",
+    "incorrect_answers": ["Ayrton Senna", "Fernando Alonso", "Jim Clark"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which team was the 2015-2016 NBA Champions?",
+    "correct_answer": "Cleveland Cavaliers",
+    "incorrect_answers": [
+      "Golden State Warriors",
+      "Toronto Raptors",
+      "Oklahoma City Thunders"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Where was the Games of the XXII Olympiad held?",
+    "correct_answer": "Moscow",
+    "incorrect_answers": ["Barcelona", "Tokyo", "Los Angeles"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Josh Mansour is part of what NRL team?",
+    "correct_answer": "Penrith Panthers",
+    "incorrect_answers": [
+      "Melbourne Storm",
+      "Sydney Roosters",
+      "North Queensland Cowboys"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which car company is the only Japanese company which won the 24 Hours of Le Mans?",
+    "correct_answer": "Mazda",
+    "incorrect_answers": ["Toyota", "Subaru", "Nissan"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Italian footballer told Neuer where he&#039;s putting his shot and dragging it wide, during the match Italy-Germany, UEFA EURO 2016?",
+    "correct_answer": "Pelle",
+    "incorrect_answers": ["Insigne", "Barzagli", "Giaccherini"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which male player won the gold medal of table tennis singles in 2016 Olympics Games?",
+    "correct_answer": "Ma Long (China)",
+    "incorrect_answers": [
+      "Zhang Jike (China)",
+      "Jun Mizutani (Japan)",
+      "Vladimir Samsonov (Belarus)"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which soccer team won the Copa Am&eacute;rica Centenario 2016?",
+    "correct_answer": "Chile",
+    "incorrect_answers": ["Argentina", "Brazil", "Colombia"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In Baseball, how many times does the ball have to be pitched outside of the strike zone before the batter is walked?",
+    "correct_answer": "4",
+    "incorrect_answers": ["1", "2", "3"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 2016, who won the Formula 1 World Constructor&#039;s Championship for the third time in a row?",
+    "correct_answer": "Mercedes-AMG Petronas",
+    "incorrect_answers": [
+      "Scuderia Ferrari",
+      "McLaren Honda",
+      "Red Bull Racing Renault"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What year did the New Orleans Saints win the Super Bowl?",
+    "correct_answer": "2010",
+    "incorrect_answers": ["2008", "2009", "2011"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the exact length of one non-curved part in Lane 1 of an Olympic Track?",
+    "correct_answer": "84.39m",
+    "incorrect_answers": ["100m", "100yd", "109.36yd"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "This Canadian television sportscaster is known for his &quot;Hockey Night in Canada&quot; role, a commentary show during hockey games.",
+    "correct_answer": "Don Cherry",
+    "incorrect_answers": ["Don McKellar", "Don Taylor ", "Donald Sutherland"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which team has won the most Stanley Cups in the NHL?",
+    "correct_answer": "Montreal Canadians",
+    "incorrect_answers": [
+      "Chicago Blackhawks",
+      "Toronto Maple Leafs",
+      "Detroit Red Wings"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which portuguese island is soccer player Cristiano Ronaldo from?",
+    "correct_answer": "Madeira",
+    "incorrect_answers": ["Terceira", "Santa Maria", "Porto Santo"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the most common type of pitch thrown by pitchers in baseball?",
+    "correct_answer": "Fastball",
+    "incorrect_answers": ["Slowball", "Screwball", "Palmball"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many French Open&#039;s did Bj&ouml;rn Borg win?",
+    "correct_answer": "6",
+    "incorrect_answers": ["4", "9", "2"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who is often called &quot;the Maestro&quot; in the men&#039;s tennis circuit?",
+    "correct_answer": "Roger Federer",
+    "incorrect_answers": ["Bill Tilden", "Boris Becker", "Pete Sampras"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which African American is in part responsible for integrating  Major League baseball?",
+    "correct_answer": "Jackie Robinson",
+    "incorrect_answers": ["Curt Flood", "Roy Campanella", "Satchell Paige"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which city features all of their professional sports teams&#039; jersey&#039;s with the same color scheme?",
+    "correct_answer": "Pittsburgh",
+    "incorrect_answers": ["New York", "Seattle", "Tampa Bay"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many premier league trophies did Sir Alex Ferguson win during his time at Manchester United?",
+    "correct_answer": "13",
+    "incorrect_answers": ["11", "20", "22"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who is Manchester United&#039;s top premier league goal scorer?",
+    "correct_answer": "Wayne Rooney",
+    "incorrect_answers": ["Sir Bobby Charlton", "Ryan Giggs", "David Beckham"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who won the premier league title in the 2015-2016 season following a fairy tale run?",
+    "correct_answer": "Leicester City",
+    "incorrect_answers": ["Tottenham Hotspur", "Watford", "Stoke City"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "When was the FC Schalke 04 founded?",
+    "correct_answer": "1904",
+    "incorrect_answers": ["1909", "2008", "1999"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The Los Angeles Dodgers were originally from what U.S. city?",
+    "correct_answer": "Brooklyn",
+    "incorrect_answers": ["Las Vegas", "Boston", "Seattle"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Formula 1 driver switched teams in the middle of the 2017 season?",
+    "correct_answer": "Carlos Sainz Jr.",
+    "incorrect_answers": ["Daniil Kvyat", "Jolyon Palmer", "Rio Haryanto"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who won the UEFA Champions League in 2017?",
+    "correct_answer": "Real Madrid C.F.",
+    "incorrect_answers": ["Atletico Madrid", "AS Monaco FC", "Juventus F.C."]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In the 2014 FIFA World Cup, what was the final score in the match Brazil - Germany?",
+    "correct_answer": "1-7",
+    "incorrect_answers": ["1-5", "1-6", "2-6"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who won the 2011 Stanley Cup?",
+    "correct_answer": "Boston Bruins",
+    "incorrect_answers": [
+      "Montreal Canadiens",
+      "New York Rangers",
+      "Toronto Maple Leafs"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which two teams played in Super Bowl XLII?",
+    "correct_answer": "The New York Giants &amp; The New England Patriots",
+    "incorrect_answers": [
+      "The Green Bay Packers &amp; The Pittsburgh Steelers",
+      "The Philadelphia Eagles &amp; The New England Patriots",
+      "The Seattle Seahawks &amp; The Denver Broncos"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which country did Kabaddi, a contact sport involving tackling, originate from?",
+    "correct_answer": "India",
+    "incorrect_answers": ["Australia", "Turkey", "Cambodia"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these countries&#039; national teams qualified for the 2018 FIFA World Cup in Russia?",
+    "correct_answer": "Tunisia",
+    "incorrect_answers": ["United States of America", "Italy", "Netherlands"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who won the 2018 Monaco Grand Prix?",
+    "correct_answer": "Daniel Ricciardo",
+    "incorrect_answers": [
+      "Sebastian Vettel",
+      "Kimi Raikkonen",
+      "Lewis Hamilton"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Canadian football, scoring a rouge is worth how many points?",
+    "correct_answer": "1",
+    "incorrect_answers": ["2", "3", "4"]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The AHL affiliate team of the Boston Bruins is named what?",
+    "correct_answer": "Providence Bruins",
+    "incorrect_answers": [
+      "New Haven Bruins",
+      "Cambridge Bruins",
+      "Hartford Bruins"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which English football team is nicknamed &#039;The Tigers&#039;?",
+    "correct_answer": "Hull City",
+    "incorrect_answers": ["Cardiff City", "Bristol City", "Manchester City"]
+  }
+]
